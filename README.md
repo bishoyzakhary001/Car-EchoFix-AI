@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 Il dataset utilizzato è [AI Mechanic: Engine Condition Audio Fault Finding](https://www.kaggle.com/datasets/eoinedge/ai-mechanic-engine-condition-audio-fault-finding), disponibile su Kaggle, contenente registrazioni audio annotate di motori in diverse condizioni operative.
 
